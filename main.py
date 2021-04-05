@@ -37,7 +37,7 @@ enemyX = []
 enemyY = []
 enemyX_change = []
 enemyY_change = []
-enemy_speed = 1
+enemy_speed = 1.1
 num_of_enemies = 3
 
 
